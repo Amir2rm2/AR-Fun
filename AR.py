@@ -32,3 +32,15 @@ os.system('espeak -a 300 " WELLCOME TO  JONY SINS WOULD"')
 
 print(logo)
 print("             log la sala 🖕   ")
+print("[1] Contact me FB")
+print("[2] exit")
+x=input ('Choice:')
+
+if x in ['1']:
+	print("https://www.facebook.com/amir2hr?mibextid=ZbWKwL")
+print("[1] Contact me FB")
+print("[2] exit")
+x=input ('Choice:')
+
+if x in ['2']:
+	os.system('exit')
