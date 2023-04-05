@@ -38,7 +38,6 @@ x=input ('Choice:')
 
 if x in ['1']:
 	print("https://www.facebook.com/amir2hr?mibextid=ZbWKwL")
-print("[1] Contact me FB")
 print("[2] exit")
 x=input ('Choice:')
 
